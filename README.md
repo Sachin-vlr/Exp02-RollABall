@@ -73,7 +73,7 @@ public class roll : MonoBehaviour
 }
 ```
 ## Output :
-
+![image](https://github.com/Sachin-vlr/Exp02-RollABall/assets/113497666/1013c6d7-6c97-4b22-9da5-e88ecb38c126)
 
 ## Result:
 
